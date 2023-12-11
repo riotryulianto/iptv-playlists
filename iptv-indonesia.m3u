@@ -8,6 +8,8 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:0 tvg-id="AllplayEntertainment.id" tvg-logo="https://www.useetv.com/pimages/tvposter/useeprime.png" group-title="Undefined",Allplay Entertainment (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/480px-Antv_logo.svg.png",ANTV
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:0 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="Undefined",Arek TV (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Undefined",Bali TV (720p)
@@ -33,13 +35,13 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="Undefined",BRTV (1080p) [Not 24/7]
 https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:0 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="News",BTV (720p)
+#EXTINF:0 tvg-id="BTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:0 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Undefined",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="Business",CNBC Indonesia (720p)
+#EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/512px-CNBC_Indonesia_logo.svg.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="News",CNN Indonesia (720p) [Geo-blocked]
+#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/300px-Logo_of_CNN_Indonesia.svg.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Undefined",DAAI TV (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
@@ -65,7 +67,7 @@ https://h1.intechmedia.net/intech/ch8.m3u8
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:0 tvg-id="IAmChannel.id" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="Undefined",I AM CHANNEL (576p) [Not 24/7]
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:0 tvg-id="IDTV.id" tvg-logo="https://i.imgur.com/XOKrMfB.png" group-title="Business",IDTV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="IDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/IDTV.png",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:0 tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="Entertainment",Indonesiana.TV (720p)
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
@@ -84,11 +86,11 @@ http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:0 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="Undefined",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Undefined",JTV (480p) 
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/714px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:0 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="Undefined",K+ (Indonesian subtitle) (576p)
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",Kompas TV (480p)
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/799px-KOMPAS_TV_%282017%29.svg.png",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:0 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png" group-title="Shop",Lejel Home Shopping (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
@@ -96,12 +98,12 @@ https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Undefined",Madu TV (576p)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0, tvg-id="MagnaChannel.id" tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV" group-title="Undefined",Magna Channel (720p)
+#EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
 #EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Media Sunnah Aceh [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="Undefined",Metro TV (720p)
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/300px-LogoMetroTVsince2010.svg.png",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Undefined",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
@@ -116,10 +118,12 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
 http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/800px-NET._sky_blue.svg.png",NET.
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:0 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Niaga TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch10.m3u8
-#EXTINF:0 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Undefined",Nusantara TV (720p)
+#EXTINF:0 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Undefined",Padang TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
@@ -127,7 +131,7 @@ https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="undefined",Rajawali TV/RTV (480p)
+#EXTINF:0 tvg-id="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/300px-Rajawali_Televisi.svg.png",RTV (Rajawali Televisi)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:0 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="Undefined",Rasyaad TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
@@ -157,9 +161,9 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #EXTINF:0 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="Undefined",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/709px-Trans_TV_2013.svg.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/727px-Trans_7_2013.svg.png",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:0 tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Lifestyle",TV Kesehatan (1080p)
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
@@ -171,6 +175,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:0 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/800px-TvOne_2023.svg.png",tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:0 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Legislative",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Aceh (720p)
@@ -205,7 +211,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
 #EXTINF:0 tvg-id="TVRIMaluku.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Maluku (480p)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (720p)
+#EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:0 tvg-id="TVRIWestNusaTenggara.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Nusa Tenggara Barat (720p)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
