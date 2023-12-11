@@ -57,6 +57,8 @@ https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Undefined",Madu TV (576p)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:0, tvg-id="MagnaTV.id" tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV" group-title="Undefined",Magna TV (720p)
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Undefined",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:0 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Movies",My Cinema (1080p)
@@ -75,10 +77,14 @@ https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="undefined",Rajawali TV (480p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:0 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="Undefined",Rasyaad TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 #EXTINF:0 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Entertainment",ROCK Action (576p) [Geo-blocked]
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:0 tvg-id="ROCKEntertainment.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Entertainment",ROCK Entertainment (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="Undefined",RRI Net (1080p)
 https://rrinet.rri.co.id/hls/live.m3u8
 #EXTINF:0 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="Undefined",Sakti TV (720p)
