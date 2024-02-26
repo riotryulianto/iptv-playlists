@@ -54,7 +54,7 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://app-etslive-2.vidio.com/live/205/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8
 #EXTINF:10 tvg-id="iNews.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/800px-INews.svg.png",iNews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/5/inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -108,7 +108,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://app-etslive-2.vidio.com/live/206/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/live/206/master.m3u8
 #EXTINF:17 tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/800px-NET._sky_blue.svg.png",NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
@@ -147,7 +147,7 @@ https://rrinet.rri.co.id/hls/live.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://app-etslive-2.vidio.com/live/204/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/live/204/master.m3u8
 #EXTINF:24 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/727px-Trans_7_2013.svg.png",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
