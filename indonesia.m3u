@@ -48,13 +48,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 #EXTINF:9 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/771px-Indosiar_2015.svg.png",Indosiar
-#EXTVLCOPT:http-referrer=https://www.vidio.com/live/205
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:10 tvg-id="iNews.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/800px-INews.svg.png",iNews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/5/inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -141,13 +136,8 @@ https://rodjatv.com/rodjatv/live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rrinet.rri.co.id/hls/live.m3u8
 #EXTINF:23 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-#EXTVLCOPT:http-referrer=https://www.vidio.com/live/204
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://etslive-2-vidio-com.akamaized.net/live/204/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:24 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/727px-Trans_7_2013.svg.png",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
