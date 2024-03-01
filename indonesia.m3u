@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/480px-Antv_logo.svg.png",ANTV
+#EXTINF:1 tvg-id="ANTV.id" tvg-logo="icons/antv.png",ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/12/antv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8,27 +8,27 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:2 tvg-id="BTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
+#EXTINF:2 tvg-id="BTV.id" tvg-logo="icons/btv.png",BTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:3 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/512px-CNBC_Indonesia_logo.svg.png",CNBC Indonesia
+#EXTINF:3 tvg-id="CNBCIndonesia.id" tvg-logo="icons/cnbcindonesia.png",CNBC Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:4 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/300px-CNN_Indonesia_logo.svg.png",CNN Indonesia
+#EXTINF:4 tvg-id="CNNIndonesia.id" tvg-logo="icons/cnnindonesia.png",CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:5 tvg-id="DAAITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/512px-DAAI_TV.svg.png",DAAI TV
+#EXTINF:5 tvg-id="DAAITV.id" tvg-logo="icons/daaitv.png",DAAI TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-#EXTINF:6 tvg-id="GTV.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png",GTV
+#EXTINF:6 tvg-id="GTV.id"tvg-logo="icons/gtv.png",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/watch/channel/3/gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -37,7 +37,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:7 tvg-id="IDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/IDTV.png",IDTV
+#EXTINF:7 tvg-id="IDTV.id" tvg-logo="icons/idtv.png",IDTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
