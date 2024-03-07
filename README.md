@@ -9,11 +9,11 @@ The source used in this playlist is based on various repositories and websites l
 
 All links work on [KODI](https://kodi.tv/download/), [OTT Navigator](https://ottnav.github.io/faq.html#ott-navigator-app-availability), and any IPTV player that supports m3u files.
 
-# How-to Set up
+# How to Set up
 ## Kodi
-- Install IPTV Simple Client Add-on (available under Add-ons > PVR clients)
-- Install InputStream Helper Add-on (available under Add-ons > Program add-ons)
-- Configure InputStream Helper > (Re)install Widevine CDM library... > Accept the EULA > Choose the latest version > Wait until all of the download and installation process is done.
-- Configure IPTV Simple > Add add-on configuration > General > Location: Remote path (Internet address) > Copy this [link to the playlist](https://github.com/riotryulianto/iptv-playlists/blob/main/playlist.m3u?raw=true) and paste into M3U playlist URL > Click OK to save the configuration
+- Install **IPTV Simple Client Add-on** (available under Add-ons > PVR clients)
+- Install **InputStream Helper Add-on** (available under Add-ons > Program add-ons)
+- **Configure** InputStream Helper > **(Re)install Widevine CDM library**... > Accept the EULA > Choose the latest version > Wait until all of the download and installation process is done
+- **Configure** IPTV Simple > **Add add-on configuration** > **General** > **Location: Remote path (Internet address)** > Copy this **[link to the playlist](https://github.com/riotryulianto/iptv-playlists/blob/main/playlist.m3u?raw=true)** and paste into **M3U playlist URL** > Click **OK** to save the configuration
 ## OTT Navigator
-- Settings > Provider > ADD PROVIDER > Playlist > Copy this [link to the playlist](https://github.com/riotryulianto/iptv-playlists/blob/main/playlist.m3u?raw=true) and paste into URL address > APPLY > Set Active > APPLY
+- **Settings** > **Provider** > **ADD PROVIDER** > **Playlist** > Copy this **[link to the playlist](https://github.com/riotryulianto/iptv-playlists/blob/main/playlist.m3u?raw=true)** and paste into **URL address** > **APPLY** > Set **✅ Active** > **APPLY**
