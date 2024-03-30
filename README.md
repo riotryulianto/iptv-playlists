@@ -1,5 +1,5 @@
-![IPTV Logo](https://github.com/riotryulianto/iptv-playlists/blob/main/icons/iptv.png?raw=true)
 # IPTV Playlists
+<img align="right" src="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/iptv.png?raw=true">
 Collection of fully tested and available IPTV channels for the Indonesian region, with updated channel icons made by myself based on official channel logos from various sources. All links have been tested using [IPTV Tools](http://www.iptvtools.net/?svc=check) and individually tested by myself.
 
 The source used in this playlist is based on various repositories and websites like:
