@@ -30,7 +30,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="Indonesia",IDTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -52,7 +52,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="Indonesia",JTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -83,7 +83,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
@@ -104,7 +104,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="Indonesia",Rodja TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
