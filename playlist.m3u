@@ -115,6 +115,15 @@ https://rodjatv.com/rodjatv/live.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rrinet.rri.co.id/hls/live.m3u8
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/seatoday.png?raw=true" group-title="Indonesia",SEA Today
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://liveaneviadev.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/sctv.png?raw=true" group-title="Indonesia",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
