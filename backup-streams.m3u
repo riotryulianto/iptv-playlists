@@ -5,6 +5,15 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true" group-title="Indonesia",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" group-title="Indonesia",JTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="Indonesia",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://ythls-v2.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
